@@ -1,0 +1,54 @@
+_repo: The-Philosophy-of-Spiritual-Activity-A-Modern-Philosophy-of-Life-Developed-by-Scientific-Meth__55761
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Hoernlé, Winifred
+    aliases:
+    - Hoernle, Winifred
+    - Hoernlé, Agnes Winifred
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '49074'
+    url: http://www.gutenberg.org/2009/agents/49074
+  - agent_name: Hoernlé, Reinhold Friedrich Alfred
+    aliases:
+    - Hoernle, Reinhold Friedrich Alfred
+    - Hoernlé, R. F. Alfred (Reinhold Friedrich Alfred)
+    birthdate: 1880
+    deathdate: 1943
+    gutenberg_agent_id: '48497'
+    url: http://www.gutenberg.org/2009/agents/48497
+creator:
+  author:
+    agent_name: Steiner, Rudolf
+    alias: Steiner, Rudolph
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '26537'
+    url: http://www.gutenberg.org/2009/agents/26537
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
+  editor:
+    agent_name: Collison, Harry
+    alias: Collison, H. (Harry)
+    gutenberg_agent_id: '26536'
+    url: http://www.gutenberg.org/2009/agents/26536
+description: ''
+gutenberg_issued: '2017-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55761'
+  lccn: '23004577'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life'
+- !lcc 'BD'
+- !lcsh 'Free will and determinism'
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Anthroposophy'
+- GITenberg
+title: "The Philosophy of Spiritual Activity\r\nA Modern Philosophy of Life Developed\
+  \ by Scientific Methods"
+url: http://www.gutenberg.org/ebooks/55761
